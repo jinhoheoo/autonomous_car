@@ -18,7 +18,7 @@ https://youtu.be/2ns1jWKX29g
 ![image](https://github.com/jinhoheoo/autonomous_car/assets/153490852/76cb98d3-5422-47a5-9d20-6d3e84bce1ab)
 
 
--동작원리
+## 동작원리
 
 1. 블루투스 어플리케이션을 통해 수동모드와 자동모드를 선택합니다.
 
@@ -28,7 +28,7 @@ https://youtu.be/2ns1jWKX29g
 
 4. I2C 통신으로 LCD에 현재 전진, 후진, 우회전, 좌회전 상태를 표시해줍니다. LCD 데이터시트를 활용하여 LCD 함수를 직접 구현하였습니다.
 
--결과
+## 결과
 
 1.높은 PWM주파수로 인한 과전류
    
